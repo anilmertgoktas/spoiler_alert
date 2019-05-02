@@ -13,7 +13,7 @@ namespace ConsoleApp2
            // Console.WriteLine("Thor dies");
 
             display display = new display();
-            Console.WriteLine( display.Type("night king"));
+            Console.WriteLine(display.Type("night king"));
 
 
         }
