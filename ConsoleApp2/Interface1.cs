@@ -8,6 +8,6 @@ namespace ConsoleApp2
 {
     interface Display
     {
-        void type(string type);
+        string Type(string type);
     }
 }
